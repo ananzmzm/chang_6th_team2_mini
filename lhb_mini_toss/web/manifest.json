@@ -1,6 +1,6 @@
 {
-    "name": "lhb_mini_toss",
-    "short_name": "lhb_mini_toss",
+    "name": "chang_mini",
+    "short_name": "chang_mini",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

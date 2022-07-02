@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.lhb_mini_toss">
+    package="com.example.chang_mini">
    <application
-        android:label="lhb_mini_toss"
+        android:label="chang_mini"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
