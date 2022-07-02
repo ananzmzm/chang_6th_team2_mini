@@ -9,6 +9,12 @@ class SplashPage extends StatefulWidget {
 
 class _SplashPageState extends State<SplashPage> {
   @override
+  void initState() {
+    WidgetsBinding.instance.addPostFrameCallback((timeStamp) {});
+    super.initState();
+  }
+
+  @override
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
